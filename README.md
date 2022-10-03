@@ -14,8 +14,8 @@ Create your next online publication with this PaaW boilerplate. It ships with a 
 _If you're looking for a more complex publication take a look at the [collection of vnLab starters](https://github.com/vnLab-Lodz/vnLab-templates)._
 
 ## 🚀 Quick start
-
-1.  **Create a Gatsby site.**
+  adad
+1.  **Create a Gatsby site.**fff
 
     Use the Gatsby CLI ([install instructions](https://www.gatsbyjs.com/docs/tutorial/part-0/#gatsby-cli)) to create a new site, specifying the default starter.
 
